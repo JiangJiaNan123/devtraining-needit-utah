@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">71f60918c3c2661043b9bdbc05013158</canvas>
+        <component display_value="Filter Group">ba8b5fa922351c2027c524c91a134bf2</component>
+        <component_props>{"groupConfiguration":{"filterId":"group-mbkgp2j5","showLabel":true,"label":"NeedIt","layout":"horizontal","spacing":"s","showSelectedValuesInPill":true,"showBorder":true,"showRoundCorners":false,"bare":false,"showApply":true,"showClear":true,"showReset":false,"combineActions":false,"showSeparator":true,"filterMaxWidth":300,"cascadeScope":"group-mbkgp2j5","filters":[{"filterName":"Filter","filterId":"mbkgp2j5","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[]}],"isDashboard":false,"key":1749193765353},"filterConfigurations":"@state.parFilters","isDashboard":true,"id":"groupConfiguration","value":{"filterId":"group-mbkgp2j5","showLabel":true,"label":"NeedIt","layout":"horizontal","spacing":"s","showSelectedValuesInPill":true,"showBorder":true,"showRoundCorners":false,"bare":false,"showApply":true,"showClear":true,"showReset":false,"combineActions":false,"showSeparator":true,"filterMaxWidth":300,"cascadeScope":"group-mbkgp2j5","filters":[{"filterName":"Filter","filterId":"mbkgp2j5","dateFilterView":"calendar-reldates","defaultSelectedDateRange":{"range":""},"defaultSelectedItems":[],"filterConfigurations":[]}],"isDashboard":false,"key":1749193765353},"propLabel":"Group configuration","label":"NeedIt"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-06 07:10:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fafcc514c3c2661043b9bdbc050131f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_fafcc514c3c2661043b9bdbc050131f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-06 07:11:46</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
